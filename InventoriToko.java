@@ -2,7 +2,7 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.Locale;
 
-public class ManajementInventoriToko {
+public class InventoriToko {
     public static void main(String[] args) {
         // Anda adalah pemilik toko dan ingin mengelola inventori toko Anda
         // Anda ingin menyimpan informasi produk, harga, dan jumlah
