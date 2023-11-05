@@ -1,11 +1,13 @@
 public class ManajemenPerpustakaan {
 
     public static void main(String[] args) {
-        // Anda adalah seorang pustakawan di perpustakaan universitas. Anda ingin
-        // mengelola
-        // data buku yang ada di perpustakaan Anda. Anda ingin menyimpan informasi
-        // tentang
-        // judul buku, pengarang, tahun terbit, dan status ketersediaan buku
+        /**
+         * Anda adalah seorang pustakawan di perpustakaan universitas. Anda ingin
+         * mengelola data buku yang ada di perpustakaan Anda. Anda ingin menyimpan
+         * informasi tentang judul buku, pengarang, tahun terbit, dan status ketersediaan
+         * buku.
+         */
+
         String[][] Perpustakaan = {
                 { "Java Programming", "John Smith", "2020", "Tersedia" },
                 { "Data Structures and Algorithms", "Alice Johnson", "2019", "Tidak Tersedia" },
