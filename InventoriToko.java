@@ -1,12 +1,14 @@
-import java.text.DecimalFormat;
-import java.text.DecimalFormatSymbols;
-import java.util.Locale;
+import java.text.*;
+import java.util.*;
 
 public class InventoriToko {
     public static void main(String[] args) {
-        // Anda adalah pemilik toko dan ingin mengelola inventori toko Anda
-        // Anda ingin menyimpan informasi produk, harga, dan jumlah
-        // stok produk yang Anda miliki
+        /**
+         * Anda adalah pemilik toko dan ingin mengelola inventori toko Anda
+         * Anda ingin menyimpan informasi produk, harga, dan jumlah
+         * stok produk yang Anda miliki
+         */
+
         String[][] Toko = {
                 { "Laptop", "8,000,000", "10" },
                 { "Smartphone", "3,500,000", "20" },
