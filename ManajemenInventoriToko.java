@@ -19,6 +19,7 @@ public class ManajemenInventoriToko {
         }
 
         // Menambahkan stok untuk "Laptop"
+        // Yang ini gweh ngetes doang awokoakowkak
         String[] ProdukTambahStok = {"Laptop", "Smartphone", "Tablet"};
         int[] JumlahPenambahanStok = {20,20,40};
         for (int i = 0; i < ProdukTambahStok.length; i++) {
@@ -39,6 +40,8 @@ public class ManajemenInventoriToko {
             int productStock = Integer.parseInt(inventory[i][2]);
 
             System.out.println("Nama Produk: " + productName + ", Harga: " + productPrice + ", Stok: " + productStock);
+
+        // Selamat anda kena frenk
         }
     }
 }
