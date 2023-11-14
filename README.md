@@ -8,4 +8,4 @@
 4. Movie Rankings
 
 ## Array Assignment 2
-Integrate a linear search feature into the Java code for the four previously created case studies. Add user input functionality for searching. Refine the wording and elaborate on the tasks. This is for the GitHub repository readme.
+Integrate a linear search feature into the Java code for the four previously created case studies. Add user input functionality for searching. Refine the wording and elaborate on the tasks.
