@@ -1,12 +1,11 @@
-# Tugas-pemrograman-komputer-array
-Tugas array
-**Studi Kasus**
+# Computer-Programming-Assignment-Array
+## Array Assignment 1
+**Case Studies**
 
-1.) Manajemen data penjualan
+1. Sales Data Management
+2. Store Inventory Management
+3. Library Management
+4. Movie Rankings
 
-2.) manajemen inventori toko
-
-3.) Manajemen perpustakaan
-
-4.) peringkat film
-
+## Array Assignment 2
+Integrate a linear search feature into the Java code for the four previously created case studies. Add user input functionality for searching. Refine the wording and elaborate on the tasks. This is for the GitHub repository readme.
